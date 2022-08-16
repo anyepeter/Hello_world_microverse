@@ -1,8 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# hello world microverse 
 
-hello world microverse 
 
 
 ## Built With
@@ -10,5 +9,5 @@ hello world microverse
 - Major languages
 - html
 - css
-## Getting Started
+
 
